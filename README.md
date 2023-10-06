@@ -12,7 +12,7 @@
 
 ## 동영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ihU72Raq7zQ?si=P1NuADaB9rjKAOmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- https://youtu.be/ihU72Raq7zQ?si=m05vGjVhPduFY8Xp
 
 ## 소스 파일
 
